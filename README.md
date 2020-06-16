@@ -1,6 +1,9 @@
 # react-native-scrollview
+ 
+<p align="center">
+  <img width="300" height="600" src="https://github.com/ritzblogs/react-native-scrollview/blob/master/scrollview.jpg">
+</p>
 
-![demo](https://github.com/ritzblogs/react-native-scrollview/blob/master/scrollview.jpg)  
 
 ## Install at local
 Open Terminal, then type command:  
