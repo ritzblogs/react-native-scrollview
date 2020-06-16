@@ -1,0 +1,5 @@
+{
+  "name": "ScrollView",
+  "displayName": "ScrollView",
+  "androidStatusBar": { "backgroundColor": "#fff" } 
+}
